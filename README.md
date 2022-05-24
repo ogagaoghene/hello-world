@@ -1,21 +1,64 @@
-# Hello-World
+# Project Name
 
-# Description the project.
-The project creates a hello world page with a header tag colored with a style specification in CSS
+Hello World
 
 ## Built With
 
-- HTML - HyperText Markup Language
-- CSS - Cascading StyleSheet
+- html
+- Frameworks
+- vs code, github, gitbash
 
-## Run tests
-Automated tests are run against our source files with the linter configuration in the linters.yml files
+## Live Demo (if available)
 
-## Author
-Esi Ogagaoghene
+[Live Demo Link](https://livedemo.com)
+
+
+## Getting Started
+
+**I used HTML to implement the Hello World Project, implemented the GitHub flow, and adopted best practices in the process of documenting the project.**
+
+
+## To request a local copy of my project, please follow these steps
+Request this url: https://github.com/ogagaoghene/hello-world in your web browser. Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side. Select download Zip option from drop down menu. Once the download is complete you will be able to access my project locally.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+
+
+## Authors
+
+👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/ogagaoghene)
 - Twitter: [@twitterhandle](https://twitter.com/@esi_ogaga)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-## Contributions
-This Contribution was made as a requirement for an exercise on Microverse software engineering bootcamp program
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.

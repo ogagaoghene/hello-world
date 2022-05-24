@@ -14,5 +14,8 @@ Automated tests are run against our source files with the linter configuration i
 ## Author
 Esi Ogagaoghene
 
+- GitHub: [@githubhandle](https://github.com/ogagaoghene)
+- Twitter: [@twitterhandle](https://twitter.com/@esi_ogaga)
+
 ## Contributions
 This Contribution was made as a requirement for an exercise on Microverse software engineering bootcamp program
